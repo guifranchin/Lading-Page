@@ -1,5 +1,5 @@
 
-<img src="./img/example.png" alt="exemplo imagem">
+<img src="./example.png" alt="exemplo imagem">
 
 # Lading Page
 
